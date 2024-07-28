@@ -9,3 +9,5 @@ explore.
 
 Lastly, the source code contains a lot of unoptimized code which make the application perform sub-par. Anyone who wishes to make a change to the source code and
 improve its performance and "bad code issues" are welcome to do so. Since this code was written for the sake of making and project and not to make a fully fledged application, it features a lot of bugs and inefficient code.
+
+The atopwatch uses base computer clock rhythm to work. I've also added an jar executable that refuses to work because it can't link to the assets.
